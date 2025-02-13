@@ -1,18 +1,18 @@
 [
   {
-    "src": "./imagen/leadership.png",
+    "src": "./img/leadership.png",
     "title": "Leadership & Management",
     "desc": "You **must** develop strong leadership skills to manage a team effectively. You **don’t have to** be an expert at first, but practice is essential.",
     "cat": "Business Skills"
   },
   {
-    "src": "./imagen/communication.png",
+    "src": "./img/communication.png",
     "title": "Effective Communication",
     "desc": "You **have to** improve your communication skills to work efficiently in a team. You **mustn’t** ignore the importance of active listening.",
     "cat": "Soft Skills"
   },
   {
-    "src": "./imagen/finance.png",
+    "src": "./img/finance.png",
     "title": "Financial Management",
     "desc": "You **must** understand financial reports and budgeting to run a business successfully. You **don’t have to** be an accountant, but basic knowledge is necessary.",
     "cat": "Business Management"
