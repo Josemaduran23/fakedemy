@@ -1,12 +1,12 @@
 [
   {
-    "src": "./img/cloud.png",
+    "src": "https://josemaduran23.github.io/fakedemy/img/cloud.png",
     "title": "Cloud Computing Service",
     "desc": "You **must** protect your business data when using cloud computing. You **don’t have to** buy extra servers, our service is fully online.",
     "cat": "Cloud Solutions"
   },
   {
-    "src": "./img/office.png",
+    "src": "https://josemaduran23.github.io/fakedemy/img/office.png",
     "title": "Office Suite Training",
     "desc": "You **have to** master Excel, Word, and PowerPoint to improve your business skills. You **mustn’t** ignore the importance of data security.",
     "cat": "Business Training"
