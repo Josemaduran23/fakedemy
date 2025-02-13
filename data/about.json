@@ -4,19 +4,19 @@
   "current_work": "We currently offer training programs in office suite tools, cloud computing, and business management to thousands of clients worldwide.",
   "team": [
     {
-      "src": "./imagen/ceo.jpg",
+      "src": "./img/ceo.jpg",
       "name": "Alice Johnson",
       "role": "CEO & Founder",
       "desc": "Alice **must** lead the company and make strategic decisions. She **doesn’t have to** work on daily operations, as the managers handle them."
     },
     {
-      "src": "./imagen/it.png",
+      "src": "./img/it.png",
       "name": "Mark Smith",
       "role": "IT Manager",
       "desc": "Mark **has to** ensure that all our online services run smoothly. He **mustn’t** allow security breaches."
     },
     {
-      "src": "./imagen/hr.png",
+      "src": "./img/hr.png",
       "name": "Sarah Lee",
       "role": "HR Director",
       "desc": "Sarah **has to** hire the best professionals for our company. She **doesn’t have to** handle payroll, as the finance team takes care of it."
